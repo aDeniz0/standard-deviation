@@ -1,0 +1,2 @@
+# standard-deviation
+std function
